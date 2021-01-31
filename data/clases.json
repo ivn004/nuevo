@@ -1,0 +1,135 @@
+[
+
+  {
+    "id": 1,
+    "name": "css desde 0",
+    "profesor": "mengano",
+    "dificultad": "facil",
+    "breve descripcion": "en este curso se dicta css desde lo mas basico",
+    "image": "creacionDeUnaTiendaOnlienConWordpress.png",
+    "price":12000,
+		"discount": 50
+
+  },
+  {
+    "id": 2,
+    "name": "html",
+    "profesor": "fulano",
+    "dificultad": "facil",
+    "breve descripcion": "en este curso se enseña html desde el principio",
+    "image": "CreaciondeunawebprofesionalconWordPress.png",
+    "price":12000,
+		"discount": 50
+  },
+  {
+    "id": 3,
+    "name": "curso de node",
+    "profesor": "jose",
+    "dificultad": "intermedio",
+    "breve descripcion": "se enseña node",
+    "image": "Diseño,desarrolloypublicaciondeunapaginaweb.png",
+    "price":12000,
+		"discount": 50
+
+  },
+  {
+    "id": 4,
+    "name": "javascript",
+    "profesor": "alberto",
+    "dificultad": "avanzada",
+    "breve descripcion": "se enseña javascrip un curso realmente completisimo",
+    "image": "DiseñodeproductodigitalconLeanyUX.png",
+    "price":12000,
+		"discount": 50
+  },
+  {
+    "id": 5,
+    "name": "ciberseguridad",
+    "profesor": "nicolas",
+    "dificultad": "facil",
+    "breve descripcion": "se enseña ciberseguridad (historia)",
+    "image": "IntroducciónalaprogramaciónenJavaScript.png",
+    "price":12000,
+		"discount": 50
+  },
+  {
+    "id": 6,
+    "name": "reparacion de pc",
+    "profesor": "roberto",
+    "dificultad": "intermedio",
+    "breve descripcion": "se enseñan los errores mas comunes y como repararlos",
+    "image": "IntroducciónalDesarrolloWebResponsiveconHTMLyCSS.png",
+    "price":12000,
+		"discount": 50
+  },
+  {
+    "id": 7,
+    "name": "componentes de una pc",
+    "profesor": "nahuel",
+    "dificultad": "facil",
+    "breve descripcion": "se enseñan los componentes de una computadora y para que funcionan los mismos(software,hardware)",
+    "image": "IntroducciónaldiseñoUX.png",
+    "price":12000,
+		"discount": 50
+  },
+  {
+    "id": 8,
+    "name": "Hacking ético",
+    "profesor": "maximiliano",
+    "dificultad": "dificil",
+    "breve descripcion": "se enseña hacking ",
+    "image": "IntroducciónaldiseñoUX.png",
+    "price":12000,
+		"discount": 50
+  },
+  {
+    "id": 9,
+    "name": "diseño web",
+    "profesor": "nose",
+    "dificultad": "facil",
+    "breve descripcion": "diseño web",
+    "image": "creacionDeUnaTiendaOnlienConWordpress.png",
+    "price":12000,
+		"discount": 50
+  },
+  {
+    "id": 10,
+    "name": "phyton",
+    "profesor": "x",
+    "dificultad": "dificil",
+    "breve descripcion": "se enseña phyton",
+    "image": "CreaciondeunawebprofesionalconWordPress.png",
+    "price":12000,
+		"discount": 50
+  },
+  {
+    "id": 11,
+    "name": "sql",
+    "profesor": "fernando",
+    "dificultad": "dificil",
+    "breve descripcion": "sql",
+    "image": "Diseño,desarrolloypublicaciondeunapaginaweb.png",
+    "price":12000,
+		"discount": 50
+  },
+  {
+    "id": 12,
+    "name": "analisis financiero",
+    "profesor": "ezequiel",
+    "dificultad": "dificil",
+    "breve descripcion": "analisis",
+    "image": "DiseñodeproductodigitalconLeanyUX.png",
+    "price":12000,
+		"discount": 50
+  },
+  {
+    "id": 13,
+    "name": "photoshop",
+    "profesor": "nehemias",
+    "dificultad": "facil",
+    "breve descripcion": "photoshop para principiantes",
+    "image": "IntroducciónalaprogramaciónenJavaScript.png",
+    "price":12000,
+		"discount": 50
+  }
+]
